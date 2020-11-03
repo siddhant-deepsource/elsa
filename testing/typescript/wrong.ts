@@ -1,1 +1,1 @@
-var y: string = 1;
+let y: string = 1;
