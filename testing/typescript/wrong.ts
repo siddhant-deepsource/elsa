@@ -1,1 +1,1 @@
-let y: string = 1;
+const y: string = 1;
